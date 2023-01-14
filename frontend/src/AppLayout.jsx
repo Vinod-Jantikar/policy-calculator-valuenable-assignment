@@ -6,7 +6,7 @@ export const AppLayout = () => {
   return (
     <Box
       sx={{
-        bgcolor: "#ECECEC",
+        bgcolor: "#13253A",
         minHeight: "100vh",
       }}
     >
